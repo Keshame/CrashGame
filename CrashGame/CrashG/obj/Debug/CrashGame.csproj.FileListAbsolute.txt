@@ -1,0 +1,13 @@
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\bin\Debug\Guna.UI2.dll
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGTA5RP.CrashForm.resources
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGame.csproj.GenerateResource.cache
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGame.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGame.csproj.CopyComplete
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\bin\Debug\CrashGame.exe.config
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\bin\Debug\CrashGame.exe
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\bin\Debug\CrashGame.pdb
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGame.Properties.Resources.resources
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGame.exe
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGame.pdb
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\bin\Debug\fon2.ico
+C:\Users\Vlad\source\repos\all\CrashGTA5RP\CrashGTA5RP\obj\Debug\CrashGame.csproj.AssemblyReference.cache
